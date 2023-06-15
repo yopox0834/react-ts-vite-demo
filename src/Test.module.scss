@@ -1,0 +1,19 @@
+.my-title {
+  color: red;
+}
+
+.my-text {
+  color: white;
+}
+
+.xxxx {
+  .aa {
+    color: red;
+  }
+}
+
+.yyyy {
+  .aa {
+    color: blue;
+  }
+}
